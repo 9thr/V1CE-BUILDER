@@ -3,4 +3,4 @@ Vice Stub Builder, this is a grabber for Chrome Passwords/Saved Passwords, Disco
 
 DO NOT CHANGE FILE NAME!!
 
-@oxyie for creds
+@oxyie-a for creds
